@@ -55,7 +55,7 @@ documentation for each feature.
 Each increment contains the work of the current iteration as well as the work of all prior iterations.
 In other words, an increment is the complete state of the product after an iteration. 
 
-
+fdhjkhfdjhf
 
 #Sprints
 In Scrum, iterations are called sprints.
