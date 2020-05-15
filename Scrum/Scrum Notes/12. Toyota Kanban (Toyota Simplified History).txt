@@ -1,0 +1,47 @@
+Taiichi Ohno, considered to be the father of the Toyota Production system, wrote a book about the thinking 
+behind the system in 1978.
+
+In the book, he describes what is now sometimes called the Lean thinking or Lean management.
+We will see that this book contains many of the principles that are used in agile projects.
+
+NOTE: This section is not very important. It's just some historical facts about the origins of Kanban and lean 
+principles.
+Just look at the NOTE sections
+
+
+
+#Toyota Simplified History:
+After World War II, Toyota had a goal to catch up with America in three years in the automobile industry.
+Japan's automobile industry was very small at the time compared to American companies like Ford and General 
+Motors.
+
+The main focus of the Toyota production system was to eliminate waste and increase productivity.
+Taiichi Ohno had heard that American workers were something like nine times more productive than Japanese 
+workers and decided that there must be a lot of wasted effort.
+The result was a decades long focus on eliminating waste and continuously improving.
+This eventually resulted in Toyota becoming the largest automobile company in the world. 
+
+Whether or not the productivity numbers were true that's what Toyota believed and
+helps explain their focus on eliminating waste.
+
+NOTE: Toyota studied and embraced many of the production ideas from Ford but used a more agile 
+approach to producing cars.
+
+After World War II, resources were very scarce in Japan. And Toyota simply couldn't afford to hold a lot of 
+inventory as was done in traditional mass production.
+
+NOTE: Out of need, Toyota developed a leaner, more flexible approach to mass producing cars.
+We will see that this lean approach uses many of the same principles that are used
+today in agile projects.
+
+In his book, Taiichi Ohno emphasized the need for the team to have a clear purpose.
+NOTE: He said I would like to emphasize that the Toyota production systems was realized because there were 
+always clear purposes and needs.
+
+NOTE: Lean principles of the Toyota production system can be applied in many contexts.
+They do not apply only to lean manufacturing or production.
+In fact, Taiichi Ohno wrote about this in the preface to the English edition of the book, which came out in 1988.
+He said the Toyota production system is not just a production system.
+I am confident it will reveal its strength as a management system adapted to today's era of global markets 
+and high level computerized information systems.
+Our discussion in this course focuses on lean principles that apply broadly. 

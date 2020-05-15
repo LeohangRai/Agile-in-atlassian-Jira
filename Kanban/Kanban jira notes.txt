@@ -1,0 +1,3 @@
+To make the backlog not visible in the main board, we can go to the more button , then board settings and 
+drag the "Backlog" status into that.
+Then , the backlog will not be visible in the main board but will be in the backlog tab in the left project menu.

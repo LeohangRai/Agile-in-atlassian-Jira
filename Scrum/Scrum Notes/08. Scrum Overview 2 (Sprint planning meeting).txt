@@ -1,0 +1,31 @@
+1. Sprint Planning meeting
+The sprint planning meeting is held at the start of a sprint.
+
+- Attendees: entire scrum team
+- Duration: typically 4 hours for a 2 week sprint (twice for 4 week long sprint)
+- Purpose: plan the work of the sprint
+- Output: Sprint goal, sprint backlog
+
+NOTE: (What goes in and what comes out)
+proposed sprint goal + proposed issues ----> Sprint planning meeting -----> Sprint goal + Sprint backlog
+
+#Not very necessary to read: (Just an extension of the points noted above)
+Before the meeting, the product owner usually has a proposed sprint goal and a minimum set of issues that accomplish 
+the goal.
+These preliminary items often come from the product backlog that has been updated during the previous sprints,
+sprint review, and sprint retrospective meetings.
+
+During the meeting, the team usually discusses the sprint goal, modifies the sprint backlog,
+places story point estimates on issues, and adds details to the issues to better describe the specific work to be done.
+
+The development team is responsible for estimating the story points for the work and deciding on how much work can be 
+done during the sprint.
+They need to do enough planning to have an accurate forecast for the amount of work that they will agree to.
+
+The development team also creates subtasks for the first few days of the sprint.
+The subtasks are often a day or less of work.
+
+This is an example of an empowered team rather than a command and control based team.
+The purpose of the meeting has been met when there is an agreed upon sprint goal and sprint backlog.
+The sprint backlog contains the issues that the development team has agreed to complete during the sprint,
+as well as a plan for completing that work. 

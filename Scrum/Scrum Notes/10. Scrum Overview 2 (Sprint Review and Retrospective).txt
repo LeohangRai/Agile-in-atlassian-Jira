@@ -1,0 +1,34 @@
+3. Sprint Review
+The sprint review meeting occurs near the end of the sprint.
+It is an informal meeting that includes the scrum team and interested stakeholders. 
+
+ - Attendees: Scrum team and stakeholders
+ - Duration: typically 2 hrs for a 2 week sprint
+ - Purpose: Inspect the increment and collaroratively update the product backlog
+ - Output: first-pass next sprint backlog
+
+
+This is a meeting with a lot of feedback on the project and includes a brainstorming session to help decide what to do next.
+The output of the meeting is a first-pass at the next sprint's backlog.
+By the time the sprint planning meeting happens for the following sprint,
+the team already has a good idea of what they will be working on. 
+
+
+
+4. Sprint Retrospective
+The sprint retrospective is the last event of the sprint.
+The scrum team attends the retrospective. 
+
+ - Attendees: Scrum team
+ - Duration: typically 90 hrs for a 2 week sprint
+ - Purpose: the team inspects itself , including its processes and team interaction
+ - Output: Improvement issues(s) added to the next sprint's backlog
+
+The retrospective is a positive meeting containing constructive feedback.
+Everyone should always remember that they are part of a team.
+The scrum master usually helps make sure that this is a positive meeting.
+The team usually discusses what they should keep doing, what they should stop doing,
+and what they should start doing.
+The meeting is about continuously improving the team.
+The output of the meeting is to add one or more improvement related issues to the next sprint's backlog.
+It's important that the team spent some of it's time on these issues, rather than exclusively building the product. 

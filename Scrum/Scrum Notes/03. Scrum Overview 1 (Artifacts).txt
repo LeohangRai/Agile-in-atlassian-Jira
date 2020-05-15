@@ -1,0 +1,102 @@
+Artifacts:
+Artifacts are tools that allow for transparency of the project.
+They allow anyone with access to them to see the current state of the project.
+
+Anyone with proper access can use the artifacts to see the current state of the project including the project's 
+history and future plans.
+This enables the team to have a shared understanding of the project so that everybody is on the same page.
+The scrum artifacts are used to enable inspection and adaptation both inside and outside of scrum meetings. 
+
+Some of the important artifacts of the scrum framework are: 
+1. The product backlog
+2. The sprint backlog 
+3. The sprint goal
+4. The sprint board 
+5. Sprint reports. 
+
+
+1. Product Backlog (contains issues/stories/items)
+A product backlog is an ordered ever-changing to-do list for the project.
+It contains issues that are not yet part of any sprint.
+
+The Scrum Guide refers to issues as items.
+You might also hear them referred to as stories.
+
+NOTE: Constant feedback means that the product backlog is always changing
+
+Issues near the top of the backlog are the closest to being worked on, so they usually have more details than 
+the lower items.
+
+#Backlog refinement/grooming:
+
+Modifying the product backlog is called product backlog refinement.
+You might also hear this referred to as backlog grooming.
+
+NOTE: According to the Scrum Guide, each scrum team decides how to do product refinement.
+But it should consume no more than 10 percent of the development team's time. 
+
+
+
+2. Sprint Backlog
+Jira invites you to drag issues from your product backlog into the sprint.
+We can drag the issues from the product backlog to the sprint.
+
+> The list of issues to be completed during the sprint is called the sprint backlog.
+The sprint backlog includes a plan on how to accomplish the work of the issues.
+
+>In Jira, this means that before starting the actual sprint, more details are added to the issues in the sprint 
+backlog.
+Those details describe how the work on the issues will be done. 
+
+
+#Story points
+As part of planning for sprints, it is common to estimate how much work an issue will take.
+Story points are the most common estimation statistic.
+
+In Jira, you can use story points, hours, issue count or create your own estimation statistic.
+Story points are a relative measure of the amount of work required to complete an issue.
+
+NOTE: For example, an issue that is assigned two story points is assumed to
+take about twice as long to complete as an issue that is assigned one story point. 
+
+
+
+When you want to start a sprint, you click the "Start Sprint" button associated with the sprint.
+You can modify the sprint name, specify the sprints duration, and specify the start date for the sprint.
+You could also set up multiple sprints at one time.
+
+
+3. Sprint Goal
+The start sprint window also contains a place to enter what is called the sprint goal.
+The sprint goal represents the objective of the sprint's increment.
+The sprint goal is reached by completing the issues in the sprint backlog.
+A scrum rule is that the sprint goal does not change during the sprint.
+The sprint is considered a success if the sprint goal is reached. 
+
+#Reasons to have sprint goal:
+1. Provides coherence to the product increment
+>This means that the features are related so that the product increment is valuable rather than building 
+  a collection of unrelated features. 
+
+2. Enables flexibility with the sprint backlog. 
+
+
+The sprint goal remains fixed during the sprint but the issues that achieve the sprint goal can be modified as 
+long as quality is not decreased.
+This means that there's flexibility in the makeup of the sprint backlog as the sprint is worked on.
+The sprint goal provides guidance for decisions as the team makes adjustments. 
+
+
+
+4. Sprint Board
+The sprint board only contains the issues in the sprint backlog.
+Issues in the product backlog or issues that are assigned to other sprints are not shown on the sprint board.
+Even in sprint projects, boards are often called Kanban boards.
+So, don't be confused if you hear that term related to a sprint. 
+
+
+5. Sprint Reports
+Important ones:
+1. The burndown chart
+2. Sprint report
+3. Velocity chart 

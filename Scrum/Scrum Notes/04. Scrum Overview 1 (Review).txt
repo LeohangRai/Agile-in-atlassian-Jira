@@ -1,0 +1,12 @@
+- Scrum is an Agile framework.
+
+- An increment is a potentially shippable portion of the project that meets the definition of done.
+
+- A sprint is a time boxed period in which the increment is created.
+
+- Scrum artifacts provide project transparency, enable shared understanding, and enable inspection and 
+adaptation.
+
+- Artifacts include: the product backlog, the sprint backlog, the sprint goal, sprint boards, and reports.
+
+-Velocity is the rate at which the team accomplishes work, usually in story points per sprint. 

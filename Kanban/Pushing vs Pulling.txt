@@ -1,0 +1,86 @@
+The performer of a step in the workflow either pulls the work from the previous step or has the work pushed 
+to them.
+
+
+If we go back to our example workflow where a restaurant takes and delivers orders,
+we can see that sometimes, the work is pushed and sometimes it is pulled.
+
+1. After the wait staff takes the order,
+they usually push it to a queue for the queue to start when they get a chance.
+
+2. When the cook has the availability to start preparing the order,
+the cook pulls the order from the queue and places it in the work in progress location.
+
+3. After the food is prepared,
+the cook pushes the order to the wait staff delivery queue.
+
+4. When the wait staff has availability,
+they pull the order from the delivery queue and deliver it to the customer.
+
+So, you can see that in this workflow,
+sometimes the performer of the work pulls the work from the previous step,
+and other times, the work is pushed to them from the previous step.
+
+>Overall, this process is a pull process because the cook only prepares the orders after they are received.
+If no customers come in, the cook never prepares any orders.
+
+>If this was a push process, the cook would prepare the food ahead of time and wait for customers to come in 
+and take the food.
+
+If no customers come in, the food could be wasted. 
+
+
+#Pushing and pulling in JIRA (agile):
+Pushing and pulling of issues can happen on Kanban boards.
+
+NOTE: we have the following columns (statuses): (initially)
+1. SELECTED FOR DEVELOPMENT
+2. IN PROGRESS
+3. REVIEW
+4. DONE
+
+Typically, an issue is pushed onto the 'selected for development' when it is ready to be worked on.
+
+Any issue in this 'selected for the develeopment' column is only pulled into the 'in progress' column when a 
+person is ready to work on the issue.
+
+NOTE: This is the main reason why the overall process is a pull system, the people doing the work pull issues only 
+when they have availability.
+
+When the work of the issue is complete, the person that did the work pushes the issue onto the 'done' column.
+
+
+NOTE:
+Sometimes you might want to add queue columns to your workflow.
+For example, in this workflow, we have a 'review' column before the 'done' column.
+An issue in the 'review' column usually means that the work of reviewing is underway.
+But the person who does th review may not know the status of the IN PROGRESS issue.
+(like is it ready to be pulled to review on or not)
+
+However, when the 'in progress' column is complete, if you push it into the 'review' column,
+a reviewer may not be available to work on it.
+
+If a reviewer pulls the work from the 'in progress' column, the work of the issue might not have been done.
+
+This is a good case for inserting a queue before the 'review' column.
+Here, we have added a queue called 'development done' to the workflow. (in between IN PROGRESS and REVIEW)
+
+When the work of an issue in the 'in progress' status is done, the performer can push the issue to the 
+'development 'done' queue.
+
+When a reviewer is available, they can pull the issue into the 'review' column.
+
+
+NOTE: Adding this queue makes the exact status of the work item easier to see.
+
+
+
+#Benefits of PULL:
+We have seen that pulling work is common in the Kanban method.
+We will also see later that most agile methods pull work because the development team decides how many 
+issues can be worked on and pulls an issue to start the work.
+Pulling work is common on agile teams because it enables team members to select their work.
+This happens in a self-organizing empowered team, they are not assigned work.
+Pulling also maintains a sustainable pace.
+A performer only pulls more work when they are ready instead of
+work being pushed to them that they may or may not keep up with. 

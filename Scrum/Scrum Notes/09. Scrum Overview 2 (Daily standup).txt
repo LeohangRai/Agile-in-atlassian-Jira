@@ -1,0 +1,18 @@
+2. Daily Standup / Daily Scrum
+It is a planning meeting that occurs everyday and the participants usually stand as a reminder that 
+it's a short meeting. 
+
+ - Attendees: development team (primarily) (others are usually asked to listen only)
+ - Duration: 15 mins or less usually
+ - Purpose:
+    inspect recent progress toward the sprint goal
+    plan the day's work
+    Identify any impediments (hinderances) and find plans to solve them
+
+ - Output: plan for the day
+
+
+It's important that the daily standup is a collaborative meeting and not simply a status update.
+The team collaborates to make the best decisions for the day given the latest information.
+They usually decide on who will work on specific issues, to plan slightly changes after every daily standup.
+This is continuous improvement. 

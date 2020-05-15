@@ -1,0 +1,14 @@
+A cycle time control chart is used to show the cycle time for issues over time.
+A circle is placed on the chart when an issue is moved to the 'done' column,
+the elapsed time is the time that the issue spent in the 'in progress' status.
+As mentioned earlier, this is the cycle time for the issue.
+You can click on an issue to see the issues details.
+The solid blue line shows the rolling average cycle time.
+In general, you would like to see the team improve the cycle time as is done here.
+Trending down means that issues are completed faster as time progresses.
+The red line indicates the average cycle time for the period of the chart.
+The shaded band indicates the standard deviation of the cycle time over time.
+That band becomes more narrow if all of
+the issues are completed with about the same cycle time.
+Process improvements can narrow this band
+increasing the predictability of the team and improving estimates.

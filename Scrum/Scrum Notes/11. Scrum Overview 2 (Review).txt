@@ -1,0 +1,13 @@
+Here is a review of what we've discussed in this video.
+
+1. Scrum roles include 
+ - Product owner
+ - Scrum master 
+ - Development team members
+ - Stakeholders.
+
+2. Scrum meetings include: 
+ - Sprint planning meeting
+ - Daily standups
+ - Sprint review
+ - Sprint retrospective 

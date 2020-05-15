@@ -1,0 +1,11 @@
+Lead time and cycle time are two terms related to processes.
+
+The lead time is the time from tissue creation to completion.
+In this workflow, the lead time is the time from when an issue is created to the time that it is done.
+If a customer is waiting for an issue to be complete, they care about the lead time.
+
+Cycle time is the time from starting work on an issue to its completion.
+In this workflow, the cycle time is the time that the issue is in the 'in progress' status.
+The team mostly is concerned with improving cycle time.
+
+The work in progress limits that we discussed earlier help to reduce cycle time. 

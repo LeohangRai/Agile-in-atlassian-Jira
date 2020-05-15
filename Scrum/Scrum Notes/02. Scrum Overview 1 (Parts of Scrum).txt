@@ -1,0 +1,31 @@
+There are three main parts of the Scrum Framework.
+1. Artifacts
+2. Roles
+3. Events/Ceremonies/Meetings
+
+1. Artifacts
+Artifacts are tools that allow for transparency of the project.
+They allow anyone with access to them to see the current state of the project.
+
+Some of the important artifacts of the scrum framework are: 
+1. The product backlog
+2. The sprint backlog 
+3. The sprint goal
+4. The sprint board 
+5. Sprint reports. 
+
+
+2. Roles
+- Product owner
+- Scrum master
+- Development Team
+- Members
+- Stakeholders
+
+
+3. Events/Meetings/Ceremonies
+- Sprint
+- Sprint planning meeting
+- Daily standups
+- Sprint Review
+- Sprint restrospective

@@ -1,0 +1,61 @@
+A kanban system is a system that controls the flow of work using kanbans.
+(Here kanban doesn't mean the agile kanban framework)
+(But rather the literal kanban objects (symbols/signals we talked about), also referred to as kanban tokens)
+
+Taichi Ohno said that the Toyota production system is the production method,and the kanban system is the 
+way that it is managed.
+He is pointing out that the kanbans (symbolic objects) are part of a kanban system. 
+
+
+Similarly, every restaurant uses guest check kanbans in slightly different ways, depending on the kanban system.
+Also agile projects that use issues as kanbans use them in unique ways. 
+
+#Benefits of Kanban Systems:
+ - visualizes work
+ - simple
+ - reliable
+ - efficient
+ - eliminate waste
+ - easy to identify bottlenecks and easy to improve
+
+
+#Explanation to why the above benefits exist:
+
+1. visualizes work  (allowing team members to see very clearly what work needs to be done. )
+2. simple (Look below for why simple)
+3. reliable  (because of the visual aspect, and the simplicity of the system)
+4. efficient  (uses resources only to do work that is of value to the customer)
+5. eliminates waste  (instead of holding and managing inventory, the supply is matched to the demand)
+6. easy to identify bottlenecks and easy to improve 
+(because the simplicity and just-in-time nature of the system makes it easy to see where problems occur)
+
+
+#Why kanban is considered simple:
+Forecasting demand and managing inventories is usually a much more complicated approach to managing 
+the work than using kanbans. 
+
+
+
+#Different meaning of the word "Kanban" on different contexts
+
+1. Kanban tokens 
+The literal kanban objects (symbols/signals remember?)
+Kanban may refer to an object that controls the flow of work.
+We have seen that restaurant guest checks and jira issues can be considered kanbans.
+We could call these kanban tokens to help clarify the meaning. 
+
+2. Kanban systems
+Kanban may also refer to the system that controls the flow of working using kanbans.
+We have see that Toyota has a system for how it uses kanbans just as restaurants
+have a system for how they use gas checks and how a team uses jira issues.
+We could call this a kanban system to help clarify the meaning. 
+
+3. Kanban framework (Agile framework like Scrum remember?)
+We have also seen that there is a lightweight agile method called kanban. 
+
+
+
+NOTE:
+It takes its name from the kanban system at Toyota but applies it to agile projects.
+This is a bit confusing because kanban tokens, kanban systems and even things
+like kanban boards are used in most agile methods, not only in the kanban method. 

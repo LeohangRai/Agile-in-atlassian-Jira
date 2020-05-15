@@ -1,0 +1,30 @@
+Like all boards, the Kanban board is a tool used to visualize the workflow of a team.
+Here are the columns of the default Kanban board in Jira.
+You can see that there are four columns.
+When issues are created,
+they're automatically appear in the backlog column.
+The issues in the backlog might need
+a bit more discussion or planning before they are ready to be worked on.
+When an issue is ready to be worked on,
+it is pushed to the ''Selected for Development'' column.
+This can be thought of as the team's prioritized to-do list.
+When someone from the team is ready to work on an issue,
+that person pulls the top issue from the ''Selected for
+Development Column'' into the ''In Progress'' column.
+When the work of the issue is done,
+it is pushed into the ''Done'' column.
+You can see that Kanban boards are
+a simple and effective way to visually manage the team's work.
+Even though we are showing the default Kanban board,
+the column configuration can be customized to match the way that your team works.
+Kanban boards focus on improving the flow of issues through the workflow.
+New issues are continuously added to the backlog and are always being prioritized,
+usually by the business team.
+Once the issues are ready to be worked on,
+they are pushed to this ''Selected for Development'' column,
+and then flow through the statuses of the workflow.
+Work is continuously being finished before starting new work.
+When a team member is ready to work on a new issue,
+they simply choose the top issue under ''Selected for Development''.
+This ensures that the team is always working on
+the most important issue as defined by the team. 

@@ -1,0 +1,78 @@
+#Summary:
+The key principle of Kanban is to limit the work in progress.
+
+1. Work in progress limits improve flow and quickly identify bottlenecks.
+2. Agile team members often pull work from a previous column rather than have the work pushed to them.
+3. A cumulative flow diagram is a common Kanban reportand shows the number of issues in each status over time. 
+
+
+
+#Limit work in progress (How it is done):
+By specfying the minm and maximum num of issues allowed in certain columns.
+
+Benefits of limiting:
+1. Less issues are worked on at a time, which leads to better flow of work.
+2. Resusts in less multitasking which is good because multitasking decreases productivity.
+3. By limiting the work in progress, any bottlenects in the process are quickly identified because there are 
+relatively few issues in progress at any time and problems tent to be easily visible.
+4. Limits the amount of waste in the process.
+
+
+#Setting up work in progress limit in jira: 
+To set up work in progress limits for a column, click on the Columns tab of the board settings.
+
+The work in progress limits are called Column constraints in Jira.
+
+In the column constraint dropdown,
+you have the option of defining the constraint on the number of issues or the number of issues excluding sub-tasks.
+Sub-tasks are used to break down the work of an issue into smaller pieces.
+
+Underneath the column name, you can see the column constraints.
+You can see that currently, each of the columns has no minimum or maximum constraints.
+Here, we change the minimum constraint on the selected for development column to two issues.
+
+This means that if there are ever less than two issues in the column, that column will be highlighted in yellow on the board.
+A minimum like this would probably make sense because the team alwaysneeds to be able to pull new issues 
+to work on when they finish other issues.
+
+For the In Progress column, we define a work in progress limit of three issues maximum.
+If more than three issues have the In Progress status, this column will turn red on the board.
+A team of three people might choose to have a work in progress limit of three,
+ensuring that existing work is finished before new work is started.
+
+After we have configured the work in progress limits,
+we can test our configuration.
+You can see that the selected for development column now has
+a 'Min 2' indication next to the column name.
+Since we only have one issue in this column,
+it is highlighted in yellow.
+This is a signal that notifies the team that issues should be added to the column.
+You can see that the In Progress column now has
+a 'Max 3' indication next to the column name.
+We have four issues with the status of in progress,
+so the column has 
+
+
+
+#What should the work limits be set to or on what basis? [Tips on how to set them]
+The short answer is that depends on the specific project and the team.
+
+Here are some ideas.
+You could start with no work in progress limits and see if the issues are flowing nicely.
+You could add limits as the process starts to show problems.
+
+For instance, 
+1. If sometimes, there are no items in the Selected for Development column,
+the flow is negatively affected because the team can finish an issue and have no issues to work on.
+You might want to set a minimum constraint on the Selected for Development column to ensure that 
+this doesn't happen.
+
+2. You could also set work in progress limits to discourage multitasking.
+For example, if the team has seven members,
+you might want to set limits so that each member is working on only one issue at a time.
+
+3. You could also set work in progress limits on the steps that the team tends to neglect.
+For example, this workflow has a Review status after the In Progress status.
+This step ensures that other team members have looked at the work before it is considered done.
+If you find that issues are piling up in the Review column, you can set a maximum limit on that column to
+ensure that the issues flow all the way to the Done step. 

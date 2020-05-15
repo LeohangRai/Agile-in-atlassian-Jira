@@ -1,0 +1,23 @@
+The development team is a cross-functional, adaptive team that does the work of the project. 
+
+Responsibilities:
+ - estimating issues (usually done using story points)
+ - deciding how much work can be done in a sprint (only the development team can decide how much work to take out.)
+ - deciding how to organize to do the work of the sprint
+ - creating the increment of each sprint
+ - ability to modify the sprint backlog during the sprint 
+
+Imp Note:
+The development team are the only members allowed to modify the sprint backlog during the sprint
+
+#Number of members in the development team:
+The Scrum Guide recommends having from 3 to 9 members of the development team.
+
+Why 3 to 9? (2 pizza teams)
+ - Fewer than three members decreases the productivity and quality created by a cross-functional group of people 
+working together.
+ - More than nine members tends to increase the amount of coordination required.
+
+Jeff Bezos at Amazon refers to two pizza teams,
+meaning two pizzas should be able to feed the entire team.
+To scale scrum to more than nine people, it is usually better to create multiple teams. 

@@ -1,0 +1,26 @@
+Scrum events are also referred to as ceremonies of meetings.
+
+A sprint contains 4 types of events:
+1. Sprint planning meeting
+2. Daily standups
+3. Sprint review
+4. Sprint retrospective
+
+
+#Characteristics of all Scrum Meetings 
+All of the scrum meetings have some common characteristics which are as follows:
+
+1. fixed maxm time limit, no minimum time limit
+
+2. meetings are primarily to plan, inspect and adapt 
+(In agile projects, the planning is distributed throughout the project rather than the mostly upfront planning of 
+waterfall projects)
+
+3. primarily about collaborating, not updating status
+(The work is visualized so you don't need a meeting to see the status. )
+
+4. primarily spend time on things that are of value to all the participants (rather than only a group)
+(If the discussion moves in a direction that becomes a value to only a portion of the participants,
+it should be moved to a later time outside of the meeting.)
+
+

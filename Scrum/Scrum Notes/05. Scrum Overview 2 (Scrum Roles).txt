@@ -1,0 +1,81 @@
+#Stakeholders
+Stakeholders are not members of the scrum team, but are interested in the success of the project.
+
+Internal - company managers, executives and other scrum teams
+External - customers, partners, investors
+
+Internal, meaning, inside the organization
+External, meaning, external to the oranization
+
+#Scrum Team:
+The scrum team is made up of cross functional team members allowing it to complete stories within the team.
+It is flexible and adaptable with members willing to help out where needed and continuously learning new things.
+The team is responsible for deciding how to organize and do it's work.
+
+Key points (Features of a scrum team):
+ - made up of 3 roles mentioned above
+ - cross functional
+ - flexible/adaptable
+ - self-organizing
+
+A Scrum team is made up of 3 roles.
+1. Product owner
+2. Scrum Master
+3. Development Team
+
+
+1. Product Owner 
+Product owner is the member of the scrum team responsible for communicating the product vision.
+The stakeholders and the scrum team need to have an understanding of the product vision in order
+to work effectively.
+The product owner is also responsible for maximizing the value of each increment.
+
+IMP NOTE:
+The product owner is responsible for the product backlog.
+Others may help with the product backlog, but the product owner is responsible for it. 
+
+Key points:
+The product owner is responsible for:
+ - communicating the product vision
+ - maximizing the value of each increment
+ - the prodcut backlog
+
+
+2. Scrum Master
+The scrum master is the member of the scrum team who is primarily responsible for promoting and supporting 
+scrum, for scrum team members as well as stakeholders.
+It is up to the scrum master to ensure that everyone understands how and why things are done a certain way.
+The scrum master is also responsible for the day-to-day effectiveness of the scrum team.
+This includes ensuring that the team is reaching its goals and continuously improving.
+
+The scrum master is responsible for protecting the focus of the team.
+This may mean helping to remove bottlenecks or ensuring that those outside are interacting with the team in 
+helpful ways.
+In general, scrum masters do what they need to do to allow team members to focus on their work. 
+
+The scrum master is also responsible for increasing the transparency of the project.
+There should be no surprises about the current status of the project. 
+
+#Key points (Responsiblities of scrum master)
+ - promoting and supporting scrum
+ - improving the day to day effectiveness of the team
+ - protecting the focus of the team
+ - increasing the transparency of the project
+
+#Typical tasks of the Scrum master:
+ - coaching the scrum team and stakeholders on scrum and agile
+ - helping to remove blocking issues
+ - facilitating scrum events 
+ - configuring scrum artifacts
+ - monitoring sprint progress.
+
+#Scrum Master vs Product Owner
+The product owner is responsible for the value of the product.
+The scrum master is primarily responsible for the effectiveness of the team. 
+
+Why separate roles?
+ - divide and conquer approach
+ - checks and balances		
+
+Combining the roles could put too much weight on one of the responsibilities.
+The separate roles lead to greater team success and sustainability. 

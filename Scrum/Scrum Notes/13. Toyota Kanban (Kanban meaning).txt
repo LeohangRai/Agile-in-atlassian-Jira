@@ -1,0 +1,54 @@
+What is a Kanban?
+Kanban - an object that controls the flow of work
+Like some kind of symbol or sth.
+(could also be a piece of paper with info on it)
+(work to do)
+
+My own naive example:
+(Like an empty sack can symbolize that we need to import more potatoes) 
+
+#Key points:
+The idea came to Toyota from supermarkets:
+instead of push, order when inventory is low (pull)
+this matches the supply and demand
+an empty box is a "kanban" - a signal to order more
+
+
+#More broad explanation (Worth the read)
+Kanban is a Japanese word used at Toyota to generically describe an object(such as req resource item) that controls the 
+flow of work.
+The actual object can vary depending on the situation, but it usually holds some information related to the work.
+By naming this type of object a kanban, Toyota basically was adding a new definition to the word.
+The idea came to Toyota from the way that supermarkets manage their inventory.
+
+NOTE: (Imp Example)
+In supermarkets, for some products instead of forecasting and having a product delivered at regular intervals, which is a 
+push system, more product is only ordered when the current inventory reaches a reorder point.
+This is a pull system. 
+
+This matches the supply and demand.
+For example, the supermarket doesn't need to guess how many cans of tomatoes to
+order or risk having too little or too much inventory.
+They can wait for one of the boxes to empty, then order another box. 
+
+In this example, an empty box is acting as a kanban. It signals employees to order more product. 
+
+
+
+#Examples of Kanban:
+Even though the word kanban is used to represent work to do at Toyota,
+the concept has been around for a very long time.
+
+1. A guest check at a restaurant is a kanban.
+The work preparing an order does not start until the guest check is filled out.
+If no guests comes in, no orders are prepared.
+The information related to the order is on the guest check.
+
+2. An empty coffee cup when ordering coffee can also serve as a kanban.
+The size of the cup, your name, and the desired ingredients provide
+the information that is needed to start and fill your order.
+
+3. Another example of a kanban is a Jira issue.
+It provides information related to the work of the issue,
+without the Jira issue in the correct column the work shouldn't be started.
+You can see that all of these kanbans represent and hold information related to work to be done. 

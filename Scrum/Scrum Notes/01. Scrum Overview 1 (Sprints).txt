@@ -1,0 +1,68 @@
+--> Scrum is a framework for developing, delivering and sustaining complex products.
+It is a relatively simple framework for dealing with complex unpredictable projects.
+By framework, we mean that Scrum contains basic structures and ideas for completing a project. 
+
+NOTE: We can think of agile as a mindset and the methods and frameworks such as Kanban Scrum and XP as 
+ways of achieving agility. 
+
+NOTE: A key component of Scrum and Agile in general is continuous learning.
+
+
+#Increment: An increment is a useable product that may be given to the customer.
+
+
+#Iterations in Scrum:
+The product is worked on an iteration at a time.
+
+1. After the first iteration, we have some of the features of the product.
+Even though the product only has a few features, it can be considered usable with respect to those features.
+That product should have value and potentially can be given to the customer.
+After the first iteration, notice that our vision has slightly changed.
+This is because we have learned from implementing the first product features and adapted our vision accordingly.
+
+2. After our second iteration, the product contains the work of the first iteration as well as the work of the second 
+iteration.
+It now has more features that the customer will value.
+
+Because of continuous feedback,
+we may have improved some of the features from the first iteration.
+Notice that our vision has again been adapted.
+
+3. After the third iteration, our product is closer to our vision but our vision has again changed slightly.
+
+
+You can see that we are building the project incrementally, because we are building it piece by piece.
+We're building it iteratively because the product gets improved as we are learning along the way.
+
+NOTE: That is why Scrum is both an incremental and iterative approach to building projects.
+
+This process of building and improving parts of the product continues indefinitely allowing the product to 
+stay relevant in a changing marketplace.
+
+If the product that is being built has a physical aspect such as a rocket,
+the result of an iteration may be a prototype rather than a part of a completed product.
+
+At the end of every iteration, a product called an increment is ready.
+Here we see that three iteration's have created three increments of the product.
+
+
+An increment is a useable product that may be given to the customer.
+The organization always has the option to release the increment.
+Each increment must meet the organization's agreed upon, "definition of done."
+This includes quality and security standards as well as other organizational requirements such as requiring 
+documentation for each feature.
+
+Each increment contains the work of the current iteration as well as the work of all prior iterations.
+In other words, an increment is the complete state of the product after an iteration. 
+
+
+
+#Sprints
+In Scrum, iterations are called sprints.
+A sprint is a time boxed period used to work on an increment.
+The time period of a sprint is fixed.
+In general you do not shorten or lengthen the duration of the current sprint.
+Sprints usually have a duration of one to four weeks, with two week sprints being typical.
+
+
+
