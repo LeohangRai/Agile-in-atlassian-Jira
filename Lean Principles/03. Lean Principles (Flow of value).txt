@@ -1,0 +1,120 @@
+4. Improve the flow of value
+    - improve the whole system
+    - map the value stream
+    - limit work in progress
+    - pull work
+    - eliminate waste  (Look at the example in explanation section below)
+    - reduce setup times
+    - automate what should be automated
+
+
+Explanation (for the points above)
+
+#Improve the whole system
+In a lean environment, you want to set up processes so that the value that you are creating flows from start to 
+finish.
+One of the main reasons to do this besides faster delivery to the customer, is so you can immediately see and 
+fix problems in your workflow.
+This leads to continuous improvement.
+
+"Just-in-time means that, in a flow process, the right parts needed in assembly reached the assembly line
+at the time that they are needed and only in the amount needed."
+- Taiichi Ohno
+
+It's important to improve the whole system in addition to each part.
+He said, "Efficiency must be improved at each step and, at the same time, for the plant as a whole."
+
+
+#Map the value stream
+Value stream mapping is a tool used for continuous improvement.
+You draw diagram with the steps involved in the process that you want to improve.
+These often are the steps in bringing a product to the customer.
+This is called the current state.
+You then identify the desired future state.
+This is done by finding ways to increase value and reduce waste in the process.
+This often includes finding better ways to do things,  the organization's vision, and overall
+direction help to identify the desired future state.
+
+You then iterate towards the future state. You may never fully reach it,  but iterating towards it is a way to 
+continuously improve.
+You can see that this is a learning loop that is similar to the scientific method.
+It is also similar to the Agile approach of building the product incrementally.
+
+This simple exercise can be very good for planning and getting the team working in the same direction.
+
+
+#Limit work in progress
+Earlier, we have discussed work in progress limits and described how limiting the amount of
+current work can increase the flow of value and increase overall productivity.
+
+"Reducing the number of Kanban increases their sensitivity."
+- Taiichi Ohno
+
+In other words, if you limit the amount of work in progress,
+you are getting constant feedback and you tend to see problems easier because they don't get lost in a sea 
+of other work.
+
+"People prefer working with large quantities.
+It's easier than having to work hard and learn from producing small quantities."
+In other words, some people like the comfort of not getting consistent
+feedback because it's easier to just continue what you are doing. 
+
+
+#Pull work
+We have discussed the concept of pulling work from the previous step rather than having work pushed on you.
+This allows you to limit inventory and manage the flow of value.
+
+"The conventional way was to supply materials from an earlier process to a later process.
+So, I tried thinking about the transfer of materials in the reverse direction."
+-Taiichi Ohno
+
+
+#Elimintate waste
+One of the most important principles in Lean is to eliminate waste.
+
+"The basis of the Toyota Production System is the absolute elimination of waste."
+"All we are doing is looking at the timeline from the moment the customer gives us an order to the point 
+when we collect the cash. And we are reducing that time by removing the non-value added wastes."
+-Taiichi Ohno
+
+NOTE: (Important)
+"The vicious cycle of waste generating waste hides everywhere."
+He gives some examples of waste generating waste.
+For example, having too much inventory is a waste. It could cause the company to need a storage facility.
+This requires a system to manage the inventory. It also requires methods to make sure that the inventory does 
+not degrade before it's used.
+
+IMPORTANT: (Relevant)
+While this is a physical example, this concept of waste generating waste is true with other types of products.
+For example, having too many features planned in detail is a waste because some features may never be built.
+
+Here are some types of waste that Taiichi Ohno pointed out in his book.
+These are examples from production at Toyota but with some minor changes,
+they can apply broadly.
+
+#Types of waste 
+a. Overproduction or producing more than customers use,
+b. Waiting to do or receive work, unnecessary transportation,
+c. Waiting for the processing of information related to the product,
+d. Holding unnecessary inventory 
+e. Unnecessary movement of employees or product
+f. Making defective products.
+
+
+#Reduce setup time
+One way to reduce waste is to reduce setup times.
+
+"Our production slogan is small lot sizes and quick setups."
+Reducing setup times is important in all types of work so that you can focus on doing the actual work.
+Reducing setup times often adds flexibility that can change the way that the team works.
+
+#Automate what should be automated
+Another type of waste is not automating what should be automated.
+Toyota makes sure to automate where it makes sense.
+The same is true for any knowledge work tasks that can and should be automated.
+Taiichi Ohno points this out by saying,
+"With computers available, it's a waste to perform calculations by hand." 
+
+
+
+

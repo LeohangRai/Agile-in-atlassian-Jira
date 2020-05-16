@@ -1,0 +1,98 @@
+5. Build quality in
+    - the process should identify problems
+    - fix problems when they are discovered
+    - identify and fix the root cause
+
+A very important Lean principle is to build quality into the product as you are building it.
+You don't want to start with poor quality and then have the mindset that the quality will improve over time.
+
+"Produce quality products 100 percent of the time."
+- Taiichi Ohno
+
+It's important to start with a strong technical foundation of what you're doing and to never compromise on 
+quality to save time.
+
+
+EXPLANATION (of the points above)
+#The process should identify problems
+Related to building quality in is the principle that the process should identify problems.
+You do not want problems to go unnoticed.
+Normal and abnormal operations must be clear and countermeasures or solutions always taken to prevent 
+recurrence.
+This is one of the reasons for having the Kanban board at Toyota.
+
+If there's a problem, it is displayed for all to see and take appropriate action.
+We have also seen an example of the process identifying a problem by adding work in progress limits to the 
+columns on the board.
+When the team goes over the work in progress limit, the column turns red to signal the team that there is a 
+problem and take appropriate action.
+
+
+
+#Fix problems when they are discovered
+It is important to fix problems when they are discovered.
+You don't want to build a list of problems to fix.
+This takes more time and discipline but the result is much better quality.
+
+"Correct a mistake immediately, to rush and not to take time to correct a problem causes work loss later." 
+- Taiichi Ohno
+
+If you are familiar with the concept of test-driven software development, you will notice that this is the same 
+principle. Any problems with the software are discovered and fixed as the software is being developed.
+
+
+
+#Identify and fix the root cause
+When problem solving, it's important to identify and fix the root cause of the problem.
+Taiichi Ohno talks about Toyota's five-whys approach to problem solving.
+
+NOTE: By asking why five times and answering it each time, we can get to the real cause of the problem,
+which is often hidden behind more obvious solutions.
+
+So, the idea is to continue asking questions until you find the root cause of the problem and then fix the 
+problem there.
+The number five is just a typical number of times the why question needs to be asked.
+You want to keep asking why until you aren't talking about a symptom but rather the root cause of the problem.
+
+Stopping early and fixing a symptom will usually mean that the root cause will create problems somewhere else.
+
+Here is an example of asking why to find the root cause of a problem.
+Let's assume that our problem is that our product was delivered late.
+
+i) The first question that we could ask is,
+why was the product delivered late?
+The answer could be because we had too much to do at the end of the project.
+This is not a root cause of the problem because there could be many reasons why we had too much to do 
+at the end of the project.
+
+ii) The next question could be,
+why did we have too much to do at the end of the project?
+The answer could be because we started by researching and planning the entire project,
+and many of the plans changed after development started.
+This is getting closer to the root cause of the problem.
+It is identifying waste. If you make detailed plans that end up changing and research topics that don't end up 
+being part of the product, this is a form of waste.
+
+Sometimes things take longer because each task is unique and we were optimistic in our prediction.
+Other times like this, sources of waste can be identified and the process can be improved.
+
+iii)The next question could be,
+why didn't we plan and build incrementally?
+The answer could be that we probably should have.
+We have identified the root cause of the project delay.
+
+---> So, the solution in this case is to research, plan, build, and deliver incrementally.
+
+An incremental approach to developing the product would not only have reduced waste,
+but also would allow us to be flexible with the scope of the project and still deliver on time.
+
+
+
+REVIEW of Lean Principles:
+That is an overview of some of the Lean principles.
+Taken together, they provide a way of working that is very effective in many contexts.
+If you look at the individual principles, you can see that they are timeless.
+The word Lean is currently used to describe them but that word is not important and may not be universally used.
+We will see that Agile principles are very similar to Lean principles.
+
+

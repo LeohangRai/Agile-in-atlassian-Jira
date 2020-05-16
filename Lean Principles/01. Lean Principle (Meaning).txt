@@ -1,0 +1,66 @@
+Lean is about creating value and eliminating waste in order ot reduce costs and improve efficiency, productivity
+and quality.
+In a nutshell, lean is about a way of looking at how we do things and removing as much waste as possible such 
+that the end customer gets the most value.
+
+A lean culture empowers employees and focuses on customers
+- eliminate waste 
+- reduce costs
+- improve efficiency
+- improve productivity
+- improve quality
+
+Removing waste doesn't necessarily mean just throwing things away.
+We can take resources that aren't adding value in one place and use them somewhere else where they do.
+
+
+NOTE:
+Lean is about incremental improvement.
+In other words, improve 30% now instead of 100% later or never.
+By the time we perfectly plan a 100% improvement, we'll have lost valuable time and the business  environment
+will have changed.
+
+How Lean works
+removing waste so the end customer gets the most value
+
+waste - parts of the process that don't add value for the customer (Theses are the steps we're trying to elimiate with Lean)
+customer - 
+value - 
+
+
+Why Principles?
+the principles are more important than the practices or tools.
+Principles tend to be foundational and long lived even as the practices and tools change. 
+
+"With a better tool, we can get wonderful results. But if we use it incorrectly, the tool can make things worse.
+We should not forget to always use the principles."
+- Taiichi Ohno
+
+Taiichi Ohno discusses the importance of understanding the principles in his Toyota Production Systems book. 
+Here is the list of Lean Principles:  (derived from the book) (it is subjective and different people may come up with
+different lists)
+
+#Lean Principles:
+1. Empower the team
+2. Visualize work
+3. Experiment using the scientific method
+    - Contnuously learn and improve
+    - embrace change
+
+4. Improve the flow of value
+    - improve the whole system
+    - map the value stream
+    - limit work in progress
+    - pull work
+    - eliminate waste
+    - reduce setup times
+    - automate what should be automated
+
+5. Build quality in
+    - the process should identify problems
+    - fix problems when they are discovered
+    - identify and fix the root cause
+
+
+
+

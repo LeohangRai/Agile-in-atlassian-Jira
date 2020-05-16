@@ -1,0 +1,76 @@
+Taiichi Ohno discusses the importance of understanding the principles in his Toyota Production Systems book. 
+Here is the list of Lean Principles:  (derived from the book) (it is subjective and different people may come up with
+different lists)
+
+#Lean Principles:
+1. Empower the team
+2. Visualize work
+3. Experiment using the scientific method
+    - Contnuously learn and improve
+    - embrace change
+
+4. Improve the flow of value
+    - improve the whole system
+    - map the value stream
+    - limit work in progress
+    - pull work
+    - eliminate waste
+    - reduce setup times
+    - automate what should be automated
+
+5. Build quality in
+    - the process should identify problems
+    - fix problems when they are discovered
+    - identify and fix the root cause
+
+
+#Explanation
+
+1. Empower the team
+not only is empowering the team good for the success of the company,
+it improves team satisfaction.
+Many people want to feel like they're contributing to something of
+value and empowering individuals provides that,
+even more than monetary or recognition rewards.
+Teamwork is a big part of empowering the team. 
+
+
+2. Visualize work
+The work of Agile projects is usually visualized with boards and the progress of the team is visualized with charts.
+Toyota uses kanbans to signal and control the work.
+Toyota also has something called an andon board.
+This is an information board that shows any existing problems.
+
+"When one looks up, the andon comes into view, showing the location and nature of trouble situations at a 
+glance."
+- Taiichi Ohno
+
+Visualizing work tends to give a true transparent view into the status of the project, something that can 
+otherwise easily be hidden.
+
+
+
+3. Experiment using the scientic method
+The scientific method or similar experimental evidence-based methods are used to continuously improve.
+
+a. Continuously learn and improve
+NOTE: The Scientific method is the foundation of Agile methods and this is also true with Lean thinking.
+
+Related to continuously improving is the need to continuously learn.
+"Progress cannot be generated when we are satisfied with existing situations."
+
+Every organization should be a learning organization.
+Every team should be learning team.
+Everyone should realize that even if they are successful now, they have a lot to learn.
+
+A big focus at Toyota has been to continuously improve.
+"The new market demanded a constantly improving automobile."  - Taiichi Ohno
+
+If you think about it, many markets such as markets for cell phones and software assume constantly 
+improving products. 
+
+b. Embrace Change
+A Lean principle is to embrace change rather than create a fixed process and stick to it.
+In industry, it's important to enable people to cope with change and think flexibly.
+"Build a fine tuning mechanism into the business so that change will not be felt as change."
+This quote points out that, in a lean or agile environment, change feels normal. 
